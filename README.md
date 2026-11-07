@@ -10,22 +10,6 @@
   <i>Passionate about Python Async, .NET Ecosystem, JavaScript & Scalable Systems 🚀</i>
 </p>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="mailto:cuongcon2k04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cuongcon2k04%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/VanCuongVo">
-    <img src="https://img.shields.io/badge/GitHub-VanCuongVo-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -95,16 +79,36 @@ print(cuong.get_status())
 
 ---
 
-### 🛰️ `Telemetry & Footprint`
+### 📡 `Uplink` (Connect)
 
 <div align="center">
 
-  <!-- Profile Views Counter -->
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cuongcon2k04@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+### 🛰️ `Telemetry` (Profile Views)
+
+<div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=VanCuongVo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
   <br><br>
 
   <!-- Footer Banner Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer&text=Engineered%20with%20Logic%20%26%20Precision%20🚀&fontSize=18&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer&text=Made%20with%20Code%20✨&fontSize=18&fontAlignY=65" width="100%"/>
 
 </div>
