@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=220&section=header&text=Võ%20Văn%20Cường&fontSize=42&fontAlignY=36&desc=Crafting%20Scalable%20Backends%20%26%20Digital%20Logic%20⚡&descAlignY=58&descAlign=50" width="100%"/>
+<!-- Header Banner (Local SVG - 100% stable & never breaks) -->
+<img src="assets/header.svg" width="100%"/>
+
+<!-- Animated Typing Text -->
+<a href="https://github.com/VanCuongVo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00DBDE&center=true&vCenter=true&width=650&lines=Backend+Engineer+%E2%80%A2+Clean+Architecture+Advocate;Python+(FastAPI)+%E2%80%A2+.NET+(C%23)+%E2%80%A2+JavaScript;Building+Scalable%2C+High-Performance+Systems" alt="Typing SVG" />
+</a>
 
 <!-- Subtitle -->
 <p align="center">
-  <b>Backend Developer</b> • <b>Clean Architecture Advocate</b> • <b>Tech Explorer</b><br>
   <i>Turning logic & coffee into high-concurrency APIs ☕</i><br>
   <i>Passionate about Python Async, .NET Ecosystem, JavaScript & Scalable Systems 🚀</i>
 </p>
@@ -68,12 +72,7 @@ print(cuong.get_status())
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VanCuongVo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=VanCuongVo&theme=tokyonight&hide_border=true&background=0d1117" />
-
-  <br>
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanCuongVo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=VanCuongVo&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -108,7 +107,7 @@ print(cuong.get_status())
 
   <br><br>
 
-  <!-- Footer Banner Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer&text=Made%20with%20Code%20✨&fontSize=18&fontAlignY=65" width="100%"/>
+  <!-- Footer Banner (Local SVG - 100% stable) -->
+  <img src="assets/footer.svg" width="100%"/>
 
 </div>
